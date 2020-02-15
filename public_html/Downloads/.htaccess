@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Donwloads"
+AuthUserFile "/home/lojaabct/.htpasswds/public_html/Downloads/passwd"
+require valid-user
